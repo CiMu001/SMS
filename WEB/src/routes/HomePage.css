@@ -1,0 +1,22 @@
+.valuebox {
+    font-size: 16px;
+    font-weight: bold;
+    padding-top: 12px;
+    overflow: hidden;
+    height: 34px;
+    letter-spacing: 1px;
+    color: blue;
+}
+
+.titlebox {
+    font-size: 20px;
+    overflow: hidden;
+    height: 30px;
+    letter-spacing: 2px;
+}
+
+.BselectBox {
+    margin-left: 44px;
+    margin-bottom: 20px;
+    font-size: 20px;
+}
